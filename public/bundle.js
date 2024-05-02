@@ -6,144 +6,144 @@ var dataFotos = {
         america: [
             {
                 id: 1,
-                nombre: 'America 1',
+                nombre: 'Cataratas del Niagara, Canadá',
                 descripcion:
-                    'America 1 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'Ubicadas en la frontera entre Canadá y Estados Unidos. Está considerado el conjunto más ancho y voluminoso de Norteamérica, con una caída de más de 50 metros.',
                 ruta: './img/america/1.jpg',
             },
             {
                 id: 2,
-                nombre: 'America 2',
+                nombre: 'Estatua de la libertad, EEUU',
                 descripcion:
-                    'America 2 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'Ubicada en Nueva York, esta enorme escultura da la bienvenida a inmigrantes y visitantes por igual a las costas de Manhattan. Es uno de los símbolos más representativos de Estados Unidos.',
                 ruta: './img/america/2.jpg',
             },
             {
                 id: 3,
-                nombre: 'America 3',
+                nombre: 'Chichén Itzá, México',
                 descripcion:
-                    'America 3 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'Esta antigua ciudad maya alberga el famoso Templo de Kukulcán, elegido como una de las 7 Maravillas del mundo moderno. Además, dentro del complejo se encuentran dos hermosos cenotes: Xtoloc y el Cenote sagrado, utilizados para rituales de sacrificio a los dioses.',
                 ruta: './img/america/3.jpg',
             },
             {
                 id: 4,
-                nombre: 'America 4',
+                nombre: 'Cartagena de Indias, Colombia',
                 descripcion:
-                    'America 4 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'Ubicada a orillas del Caribe, está rodeada de imponentes murallas y fortificaciones. Declarada Patrimonio de la Humanidad por la UNESCO, Cartagena se destaca por su identidad colonial, calles adoquinadas y coloridas arquitecturas.',
                 ruta: './img/america/4.jpg',
             },
             {
                 id: 5,
-                nombre: 'America 5',
+                nombre: 'Cristo Redentor, Brazil',
                 descripcion:
-                    'America 5 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'Es uno de los monumentos más notables de Brasil. Esta impresionante estatua de Art Déco se encuentra en la cima del Corcovado y ofrece vistas panorámicas de Río de Janeiro. Es uno de los íconos más famosos del país y una visita obligada.',
                 ruta: './img/america/5.jpg',
             },
             {
                 id: 6,
-                nombre: 'America 6',
+                nombre: 'Glaciar Perito Moreno, Argentina',
                 descripcion:
-                    'America 6 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'En la Patagonia argentina, el Glaciar Perito Moreno es una escultura de hielo impresionante. Puedes caminar sobre las pasarelas para apreciarlo desde diferentes ángulos.',
                 ruta: './img/america/6.jpg',
             },
             {
                 id: 7,
-                nombre: 'America 7',
+                nombre: 'Ushuaia, Argentina',
                 descripcion:
-                    'America 7 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'Conocida como “el fin del mundo”, Ushuaia es la ciudad más austral del mundo y la puerta de entrada a la Antártida. Sus paisajes montañosos y su ambiente único la hacen inolvidable.',
                 ruta: './img/america/7.jpg',
             },
             {
                 id: 8,
-                nombre: 'America 8',
+                nombre: 'Bocas del Toro, Panamá',
                 descripcion:
-                    'America 8 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'Este archipiélago rodeado de islas, isletas y cayos es un paraíso para los amantes del buceo y el surf. En la Isla Colón, encontrarás opciones de alojamiento, mientras que en la Isla Bastimentos podrás avistar delfines. Bocas Town es el lugar ideal para la vida nocturna.',
                 ruta: './img/america/8.jpg',
             },
             {
                 id: 9,
-                nombre: 'America 9',
+                nombre: 'San Blas (Guna Yala), Panamá',
                 descripcion:
-                    'America 9 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'San Blas es un conjunto de islas paradisíacas en el Caribe. Aquí, podrás disfrutar de playas de arena blanca, aguas cristalinas y la cultura de la comunidad indígena Guna. Es un lugar perfecto para desconectar y relajarte.',
                 ruta: './img/america/9.jpg',
             },
             {
                 id: 10,
-                nombre: 'America 10',
+                nombre: 'Volcán Poás, Costa Rica',
                 descripcion:
-                    'America 10 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'Este volcán, rodeado de un bosque nuboso, ofrece uno de los cráteres más grandes e impresionantes del mundo. Su lago de color verde intenso es una vista cautivadora. Aunque es uno de los volcanes más activos del país, la visita es segura y emocionante.',
                 ruta: './img/america/10.jpg',
             },
         ],
         europa: [
             {
                 id: 11,
-                nombre: 'Europa 1',
+                nombre: 'Parque Nacional Timanfaya, España',
                 descripcion:
-                    'Europa 1 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'Localizado en la isla de Lanzarote, este parque nacional geológico tiene alrededor de 25 volcanes, algunos inactivos y otros de baja actividad. Puedes sentir el calor emanando desde las profundidades de la tierra y disfrutar de un paisaje volcánico impresionante.',
                 ruta: './img/europa/1.jpg',
             },
             {
                 id: 12,
-                nombre: 'Europa 2',
+                nombre: 'Lago de Pingvallavatn, Islandia',
                 descripcion:
-                    'Europa 2 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'El lago natural más grande de Islandia, sus aguas provienen del glaciar Langjokull y se unen a las aguas termales en Vellankatla. Ideal para el senderismo y el submarinismo.',
                 ruta: './img/europa/2.jpg',
             },
             {
                 id: 13,
-                nombre: 'Europa 3',
+                nombre: 'Castillos de Transilvania, Rumania',
                 descripcion:
-                    'Europa 3 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'La región de Transilvania es famosa por sus castillos medievales, como el Castillo de Bran (conocido como el Castillo de Drácula) y el Castillo de Peleș. Estos castillos tienen una atmósfera misteriosa y son un verdadero viaje al pasado.',
                 ruta: './img/europa/3.jpg',
             },
             {
                 id: 14,
-                nombre: 'Europa 4',
+                nombre: 'Cuevas de Skocjan, Eslovenia',
                 descripcion:
-                    'Europa 4 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'Estas cuevas subterráneas son Patrimonio de la Humanidad por la UNESCO. Con enormes salas, ríos subterráneos y formaciones rocosas impresionantes, son un lugar único para explorar.',
                 ruta: './img/europa/4.jpg',
             },
             {
                 id: 15,
-                nombre: 'Europa 5',
+                nombre: 'Monte Saint-Michel, Francia',
                 descripcion:
-                    'Europa 5 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'Este monte rocoso con una abadía en la cima es uno de los lugares más icónicos de Francia. Cuando la marea sube, el monte se convierte en una isla, lo que lo hace aún más mágico.',
                 ruta: './img/europa/5.jpg',
             },
             {
                 id: 16,
-                nombre: 'Europa 6',
+                nombre: 'Cinque Terre, Italia',
                 descripcion:
-                    'Europa 6 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'Cinque Terre es un grupo de cinco pintorescos pueblos costeros en la Riviera italiana. Sus casas de colores, viñedos en terrazas y vistas al mar son impresionantes.',
                 ruta: './img/europa/6.jpg',
             },
             {
                 id: 17,
-                nombre: 'Europa 7',
+                nombre: 'Santorini, Grecia',
                 descripcion:
-                    'Europa 7 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'Esta isla volcánica en el mar Egeo es famosa por sus casas blancas con techos azules, sus atardeceres espectaculares y sus playas de arena negra.',
                 ruta: './img/europa/7.jpg',
             },
             {
                 id: 18,
-                nombre: 'Europa 8',
+                nombre: 'Salzburgo, Austria',
                 descripcion:
-                    'Europa 8 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'La ciudad natal de Mozart es un lugar lleno de historia, música clásica y arquitectura barroca. Sus calles estrechas y su ambiente romántico son encantadores.',
                 ruta: './img/europa/8.jpg',
             },
             {
                 id: 19,
-                nombre: 'Europa 9',
+                nombre: 'Hallstatt, Austria',
                 descripcion:
-                    'Europa 9 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'Este pueblo alpino junto a un lago es uno de los lugares más fotografiados de Europa. Sus casas de madera, montañas y aguas cristalinas son impresionantes.',
                 ruta: './img/europa/9.jpg',
             },
             {
                 id: 20,
-                nombre: 'Europa 10',
+                nombre: 'Rovaniemi, Finlandia',
                 descripcion:
-                    'Europa 10 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'La ciudad de Santa Claus, ubicada en el Círculo Polar Ártico, es un lugar mágico para visitar en invierno. Puedes ver las Auroras Boreales y disfrutar de actividades invernales.',
                 ruta: './img/europa/10.jpg',
             },
         ],
@@ -151,281 +151,281 @@ var dataFotos = {
         africa: [
             {
                 id: 21,
-                nombre: 'África 1',
+                nombre: 'Las Grandes Pirámides de Giza, Egipto',
                 descripcion:
-                    'África 1 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'Estas antiguas pirámides se construyeron hace 4.500 años como tumbas para los faraones egipcios. Siguen siendo una de las Siete Maravillas del Mundo Antiguo y un testimonio del ingenio humano.',
                 ruta: './img/africa/1.jpg',
             },
             {
                 id: 22,
-                nombre: 'África 2',
+                nombre: 'Cataratas Victoria, Zimbabue y Zambia',
                 descripcion:
-                    'África 2 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'Conocidas como «El humo que truena», las cataratas Victoria son uno de los saltos de agua más grandes del mundo. La fuerza y la belleza de esta maravilla natural son sobrecogedoras.',
                 ruta: './img/africa/2.jpg',
             },
             {
                 id: 23,
-                nombre: 'África 3',
+                nombre: 'Montaña de la Mesa, Sudáfrica',
                 descripcion:
-                    'África 3 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'Montaña de la Mesa, que se eleva sobre Ciudad del Cabo, ofrece unas vistas impresionantes de la ciudad y la costa circundante. Se puede subir a pie o en teleférico para vivir una experiencia inolvidable..',
                 ruta: './img/africa/3.jpg',
             },
             {
                 id: 24,
-                nombre: 'África 4',
+                nombre: 'Parque Nacional del Serengeti, Tanzania',
                 descripcion:
-                    'África 4 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'Famoso por su fauna y su migración anual, el Serengeti es una visita obligada para los amantes de los safaris. Sea testigo de la increíble diversidad de animales en su hábitat natural.',
                 ruta: './img/africa/4.jpg',
             },
             {
                 id: 25,
-                nombre: 'África 5',
+                nombre: 'Monte Kilimanjaro, Tanzania',
                 descripcion:
-                    'África 5 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'El Kilimanjaro, el pico más alto de África, atrae a excursionistas de todo el mundo. La cima nevada ofrece una aventura desafiante pero gratificante.',
                 ruta: './img/africa/5.jpg',
             },
             {
                 id: 26,
-                nombre: 'África 6',
+                nombre: 'Parque Nacional Kruger, Sudáfrica',
                 descripcion:
-                    'África 6 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'Otro fantástico destino de safari, el Parque Nacional Kruger es el hogar de los Cinco Grandes (león, leopardo, elefante, búfalo y rinoceronte) y ofrece emocionantes safaris.',
                 ruta: './img/africa/6.jpg',
             },
             {
                 id: 27,
-                nombre: 'África 7',
+                nombre: 'Delta del Okavango, Botsuana',
                 descripcion:
-                    'África 7 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'Este delta interior único es un exuberante oasis en el corazón del desierto del Kalahari. Explórelo en el tradicional mokoro (piragua) y observe hipopótamos, cocodrilos y una gran variedad de aves.',
                 ruta: './img/africa/7.jpg',
             },
             {
                 id: 28,
-                nombre: 'África 8',
+                nombre: 'Iglesias excavadas en la roca de Lalibela, Etiopía',
                 descripcion:
-                    'África 8 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'Esculpidas en roca sólida, estas iglesias medievales son Patrimonio de la Humanidad de la UNESCO. Su intrincada arquitectura y su significado religioso las hacen realmente notables.',
                 ruta: './img/africa/8.jpg',
             },
             {
                 id: 29,
-                nombre: 'África 9',
+                nombre: 'Cañón del río Fish, Namibia',
                 descripcion:
-                    'África 9 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'El cañón del río Fish, el segundo más grande del mundo, ofrece unas vistas impresionantes, rutas de senderismo y la oportunidad de conectar con la naturaleza.',
                 ruta: './img/africa/9.jpg',
             },
             {
                 id: 30,
-                nombre: 'África 10',
+                nombre: 'Rastreo de gorilas en el Parque Nacional de los Volcanes, Ruanda',
                 descripcion:
-                    'África 10 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'Para vivir una experiencia única en la vida, camine por los frondosos bosques de Ruanda para observar gorilas de montaña en su hábitat natural.',
                 ruta: './img/africa/10.jpg',
             },
         ],
         asia: [
             {
                 id: 31,
-                nombre: 'Asia 1',
+                nombre: 'Taj Mahal, India',
                 descripcion:
-                    'Asia 1 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'El Taj Mahal, ubicado en Agra, India, es un monumento de amor construido en mármol blanco. Su belleza majestuosa y su historia lo convierten en un lugar imperdible.',
                 ruta: './img/asia/1.jpg',
             },
             {
                 id: 32,
-                nombre: 'Asia 2',
+                nombre: 'Gran Muralla China',
                 descripcion:
-                    'Asia 2 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'La Gran Muralla China es un símbolo icónico del país y del mundo. Explora sus tramos menos turísticos, como Jinshanling o Simatai, para obtener vistas impresionantes.',
                 ruta: './img/asia/2.jpg',
             },
             {
                 id: 33,
-                nombre: 'Asia 3',
+                nombre: 'Borobudur, Indonesia',
                 descripcion:
-                    'Asia 3 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'Considerado el monumento budista más grande del mundo, Borobudur es un mandala esculpido en piedra. Visítalo temprano en la mañana para disfrutarlo en soledad.',
                 ruta: './img/asia/3.jpg',
             },
             {
                 id: 34,
-                nombre: 'Asia 4',
+                nombre: 'Bagan, Myanmar',
                 descripcion:
-                    'Asia 4 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'Bagan es famoso por sus templos y pagodas. Sobrevolar todo el conjunto en globo es una experiencia inolvidable.',
                 ruta: './img/asia/4.jpg',
             },
             {
                 id: 35,
-                nombre: 'Asia 5',
+                nombre: 'Shirakawa-go, Japón',
                 descripcion:
-                    'Asia 5 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'Este pueblo tradicional japonés en los Alpes es un viaje en el tiempo. En invierno, cuando la nieve cubre el paisaje, es aún más impresionante.',
                 ruta: './img/asia/5.jpg',
             },
             {
                 id: 36,
-                nombre: 'Asia 6',
+                nombre: 'Maldivas',
                 descripcion:
-                    'Asia 6 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'Las Maldivas son un paraíso de playas de arena blanca y aguas cristalinas. Ideal para relajarse y disfrutar del entorno natural.',
                 ruta: './img/asia/6.jpg',
             },
             {
                 id: 37,
-                nombre: 'Asia 7',
+                nombre: 'Buda de Aukana, Sri Lanka',
                 descripcion:
-                    'Asia 7 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'Esta antigua estatua de Buda tallada en una sola roca es impresionante. Se encuentra en el centro de Sri Lanka.',
                 ruta: './img/asia/7.jpg',
             },
             {
                 id: 38,
-                nombre: 'Asia 8',
+                nombre: 'Templos de Angkor, Camboya',
                 descripcion:
-                    'Asia 8 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'Los Templos de Angkor en Siem Reap son un complejo arqueológico con estructuras antiguas y exquisitas. El famoso templo de Angkor Wat es el más grande y emblemático.',
                 ruta: './img/asia/8.jpg',
             },
             {
                 id: 39,
-                nombre: 'Asia 9',
+                nombre: 'Petra, Jordania',
                 descripcion:
-                    'Asia 9 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'Aunque no está en Asia, Petra merece una mención. Esta ciudad tallada en la roca es un tesoro histórico y visualmente impactante.',
                 ruta: './img/asia/9.jpg',
             },
             {
                 id: 40,
-                nombre: 'Asia 10',
+                nombre: 'Monte Everest, Nepal/Tíbet',
                 descripcion:
-                    'Asia 10 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'La montaña más alta del mundo, el Monte Everest, es un desafío para los alpinistas y una maravilla natural que debes contemplar.',
                 ruta: './img/asia/10.jpg',
             },
         ],
         oceania: [
             {
                 id: 41,
-                nombre: 'Oceania 1',
+                nombre: 'Bora-Bora, Polinesia Francesa',
                 descripcion:
-                    'Oceania 1 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'Sus aguas cristalinas y paisajes de parque temático son reales y te dejarán sin aliento. Aunque los hoteles en Bora-Bora pueden ser caros, dormir en una cabaña encima del agua es una experiencia inolvidable.',
                 ruta: './img/oceania/1.jpg',
             },
             {
                 id: 42,
-                nombre: 'Oceania 2',
+                nombre: 'Lago Pukaki y la Isla Sur, Nueva Zelanda',
                 descripcion:
-                    'Oceania 2 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'El Lago Pukaki, con el Monte Cook de telón de fondo, es un lago alpino con aguas turquesas impresionantes. Las vistas al Monte Cook parecen sacadas de un fondo de pantalla de Windows.',
                 ruta: './img/oceania/2.jpg',
             },
             {
                 id: 43,
-                nombre: 'Oceania 3',
+                nombre: 'Sydney y su Ópera, Australia',
                 descripcion:
-                    'Oceania 3 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'La Ópera de Sydney es uno de los edificios más emblemáticos de Oceanía. Su arquitectura única y su ubicación frente al puerto hacen que sea un lugar imprescindible para visitar.',
                 ruta: './img/oceania/3.jpg',
             },
             {
                 id: 44,
-                nombre: 'Oceania 4',
+                nombre: 'Fraser Island, Australia',
                 descripcion:
-                    'Oceania 4 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'La isla más grande de arena del mundo, Fraser Island, es un paraíso natural con playas, lagos y bosques. Explora sus dunas de arena y disfruta de la fauna autóctona.',
                 ruta: './img/oceania/4.jpg',
             },
             {
                 id: 45,
-                nombre: 'Oceania 5',
+                nombre: 'Milford Sound, Nueva Zelanda',
                 descripcion:
-                    'Oceania 5 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'Este fiordo en la Isla Sur de Nueva Zelanda es un espectáculo natural impresionante. Sus acantilados, cascadas y aguas tranquilas son una maravilla para explorar.',
                 ruta: './img/oceania/5.jpg',
             },
             {
                 id: 46,
-                nombre: 'Oceania 6',
+                nombre: 'Islas Fiji',
                 descripcion:
-                    'Oceania 6 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'Este archipiélago en el Pacífico Sur es famoso por sus playas de arena blanca, aguas cristalinas y cálida hospitalidad. Sumérgete en la cultura local y disfruta de la belleza natural.',
                 ruta: './img/oceania/6.jpg',
             },
             {
                 id: 47,
-                nombre: 'Oceania 7',
+                nombre: 'Rapa Nui, Isla de Pascua',
                 descripcion:
-                    'Oceania 7 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'Con sus misteriosas estatuas de piedra (moáis), Rapa Nui es un lugar único en el mundo. Explora su historia y su entorno volcánico.',
                 ruta: './img/oceania/7.jpg',
             },
             {
                 id: 48,
-                nombre: 'Oceania 8',
+                nombre: 'Isla de Lord Howe, Australia',
                 descripcion:
-                    'Oceania 8 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'Esta pequeña isla en el Pacífico es Patrimonio de la Humanidad por la UNESCO. Sus playas, montañas y biodiversidad son impresionantes.',
                 ruta: './img/oceania/8.jpg',
             },
             {
                 id: 49,
-                nombre: 'Oceania 9',
+                nombre: 'Islas Whitsunday, Australia',
                 descripcion:
-                    'Oceania 9 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'Este grupo de islas en la Gran Barrera de Coral es un paraíso para los amantes del buceo y el snorkel. Explora sus aguas cristalinas y playas de arena blanca.',
                 ruta: './img/oceania/9.jpg',
             },
             {
                 id: 50,
-                nombre: 'Oceania 10',
+                nombre: 'Tahití, Polinesia Francesa',
                 descripcion:
-                    'Oceania 10 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'Con sus lagunas de color turquesa y montañas volcánicas, Tahití es un destino romántico y exótico. Disfruta de la cultura polinesia y relájate en sus playas.',
                 ruta: './img/oceania/10.jpg',
             },
         ],
         antartida: [
             {
                 id: 51,
-                nombre: 'Antártida 1',
+                nombre: 'Isla Decepción',
                 descripcion:
-                    'Antártida 1 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'Ubicada en el extremo norte de la Península Antártica, es un volcán activo cubierto de nieve, hielo y glaciares. Su famosa caldera “Whalers” ofrece vistas impresionantes y la oportunidad de ver actividad volcánica de cerca.',
                 ruta: './img/antartida/1.jpg',
             },
             {
                 id: 52,
-                nombre: 'Antártida 2',
+                nombre: 'Estación Científica Palmer',
                 descripcion:
-                    'Antártida 2 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'Operada por el Programa Antártico de los Estados Unidos, esta base de investigación en la bahía de la Isla Anvers lleva a cabo estudios en biología, geología y física atmosférica. Su ubicación remota la convierte en un lugar ideal para la investigación científica.',
                 ruta: './img/antartida/2.jpg',
             },
             {
                 id: 53,
-                nombre: 'Antártida 3',
+                nombre: 'Cataratas de Sangre',
                 descripcion:
-                    'Antártida 3 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'El glaciar Taylor desprende aguas de color óxido, creando las “Cataratas de Sangre”. Este fenómeno inusual en un ecosistema único ha fascinado a la comunidad científica.',
                 ruta: './img/antartida/3.jpg',
             },
             {
                 id: 54,
-                nombre: 'Antártida 4',
+                nombre: 'Glaciar Pine Island',
                 descripcion:
-                    'Antártida 4 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'Es el glaciar de la Antártida que más rápido se derrite. Su fusión contribuye significativamente al aumento del nivel del mar.',
                 ruta: './img/antartida/4.jpg',
             },
             {
                 id: 55,
-                nombre: 'Antártida 5',
+                nombre: 'Estrecho de Le Maire',
                 descripcion:
-                    'Antártida 5 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'Un atractivo turístico en la Antártida, conocido por su belleza y misterio.',
                 ruta: './img/antartida/5.jpg',
             },
             {
                 id: 56,
-                nombre: 'Antártida 6',
+                nombre: 'Península Antártica',
                 descripcion:
-                    'Antártida 6 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'La parte más accesible del continente, hogar de aves marinas, focas y pingüinos.',
                 ruta: './img/antartida/6.jpg',
             },
             {
                 id: 57,
-                nombre: 'Antártida 7',
+                nombre: 'Cabo Evans',
                 descripcion:
-                    'Antártida 7 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'Se encuentra sumamente apartado de los demás sitios turísticos de La Antártida. Si puedes llegar, encontrarás en Cabo Evans una enorme colección de banderines, trineos y arneses que dejaron los primeros excursionistas en sus intentos por conocer el Polo Sur.',
                 ruta: './img/antartida/7.jpg',
             },
             {
                 id: 58,
-                nombre: 'Antártida 8',
+                nombre: 'Museo Histórico de Puerto Lockroy',
                 descripcion:
-                    'Antártida 8 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'Fue construido por las fuerzas militares británicas durante la Segunda Guerra Mundial. En su interior encontrarás una tienda de compra con objetos de la época, además tendrás la oportunidad de enviar una postal a distancia gracias a su oficina de correos.',
                 ruta: './img/antartida/8.jpg',
             },
             {
                 id: 59,
-                nombre: 'Antártida 9',
+                nombre: 'La Cabaña de Shackleton',
                 descripcion:
-                    'Antártida 9 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id enim ac diam consectetur vulputate eget in magna. Sed fermentum, sapien nec vulputate bibendum, urna neque eleifend leo, at porta diam risus non ligula. Nulla ac venenatis augue. Morbi lobortis libero sit amet justo cursus, iaculis ultricies sapien lacinia.',
+                    'Es un refugio de madera donde se albergó el explorador irlandés Ernest Shackleton, uno de los primeros investigadores que realizó excursiones en La Antártida.',
                 ruta: './img/antartida/9.jpg',
             },
         ],
